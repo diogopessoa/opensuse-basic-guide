@@ -86,7 +86,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 2. Reinicie a máquina para concluir.
 
 ### SOFTWARE DA COMUNIDADE OPENSUSE 
-A segunda oção é procurar pelos pacotes mantidos pela comunidade - que são construídos no [OBS - openSUSE Build Service](https://en.opensuse.org/Portal:Build_Service). Ou claro, verificar no próprio site do aplicativo desejado.
+A segunda opção é procurar pelos pacotes mantidos pela comunidade - que são construídos no [OBS - openSUSE Build Service](https://en.opensuse.org/Portal:Build_Service). Ou claro, verificar no próprio site do aplicativo desejado.
 1. Acesse: https://software.opensuse.org
 2. Pesquise o software desejado, por ex.: **emacs** (editor)
 3. Clique no software que procura
@@ -129,7 +129,7 @@ No link a seguir você poderá ver uma demonstração detalhada de como fazer um
 
 ### “BEM-VINDO | WELCOME”
 Assim que o sistema é iniciado aparece a tela de documentação e suporte.
-Nela, você encontrará mais conteúdo de suporte, inclusive sobre drivers proprietários (como Nvidia).
+Nela, você encontrará mais conteúdo de suporte, inclusive sobre a instalação de drivers proprietários como o da Nvidia.
 Enfim, aproveite ao máximo o que o openSUSE tem a oferecer e se envolva!
 
 ### REFERÊNCIAS
